@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.owner = ['+590690660060'] //+13044444544
+global.ownername = "𓀬ℱ--ᷧɌҺ--ᷧ𐔓★ℛ--ͣɈᎮ--ͧȶ❤️"
+global.ytname = "YT: 𓀬ℱ--ᷧɌҺ--ᷧ𐔓★ℛ--ͣɈᎮ--ͧȶ❤️" //
+global.socialm = "GitHub: KING" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "𓀬ℱ--ᷧɌҺ--ᷧ𐔓★ℛ--ͣɈᎮ--ͧȶ❤️" //ur bot name
+global.websitex = "https://chat.whatsapp.com/7X0jvrzAPH21jdjvyCawqL" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.author = "𓀬ℱ--ᷧɌҺ--ᷧ𐔓★ℛ--ͣɈᎮ--ͧȶ❤️"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.ownertag = ['+590690660060'] //ur owner tag
+global.ownernummenu = ['+590690660060'] //ur owner number in menu and all
+global.watermark = "𓀬ℱ--ᷧɌҺ--ᷧ𐔓★ℛ--ͣɈᎮ--ͧȶ❤️." //ur watermark
+global.botscript = "https://chat.whatsapp.com/7X0jvrzAPH21jdjvyCawqL"
+global.linkz1 = "https://chat.whatsapp.com/7X0jvrzAPH21jdjvyCawqL"
+global.linkz2 = "https://chat.whatsapp.com/7X0jvrzAPH21jdjvyCawqL"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
